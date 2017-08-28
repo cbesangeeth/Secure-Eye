@@ -1,0 +1,8 @@
+C:\Users\Elcot\Desktop\CatchItv_src\CatchItV_scr\CatchItV_scr\bin\Release\CatchItV.exe
+C:\Users\Elcot\Desktop\CatchItv_src\CatchItV_scr\CatchItV_scr\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Elcot\Desktop\CatchItv_src\CatchItV_scr\CatchItV_scr\obj\Release\CatchItV.About.resources
+C:\Users\Elcot\Desktop\CatchItv_src\CatchItV_scr\CatchItV_scr\obj\Release\CatchItV.DeviceSelector.resources
+C:\Users\Elcot\Desktop\CatchItv_src\CatchItV_scr\CatchItV_scr\obj\Release\CatchItV.MainForm.resources
+C:\Users\Elcot\Desktop\CatchItv_src\CatchItV_scr\CatchItV_scr\obj\Release\CatchItV.csproj.GenerateResource.Cache
+C:\Users\Elcot\Desktop\CatchItv_src\CatchItV_scr\CatchItV_scr\obj\Release\CatchItV.exe
+C:\Users\Elcot\Desktop\CatchItv_src\CatchItV_scr\CatchItV_scr\obj\Release\CatchItV.Login.resources

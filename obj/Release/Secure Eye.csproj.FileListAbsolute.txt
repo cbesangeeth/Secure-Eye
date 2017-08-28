@@ -1,0 +1,20 @@
+C:\Users\Elcot\Desktop\CatchItv_src\CatchItV_scr\CatchItV_scr\obj\Release\CatchItV.exe
+C:\Users\Elcot\Desktop\CatchItv_src\CatchItV_scr\CatchItV_scr\bin\Release\CatchItV.exe
+C:\Users\Elcot\Desktop\CatchItv_src\CatchItV_scr\CatchItV_scr\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Elcot\Desktop\CatchItv_src\CatchItV_scr\CatchItV_scr\obj\Release\CatchItV.DeviceSelector.resources
+C:\Users\Elcot\Desktop\CatchItv_src\CatchItV_scr\CatchItV_scr\obj\Release\CatchItV.Login.resources
+C:\Users\Elcot\Desktop\CatchItv_src\CatchItV_scr\CatchItV_scr\obj\Release\CatchItV.MainForm.resources
+C:\Users\Elcot\Desktop\CatchItv_src\CatchItV_scr\CatchItV_scr\obj\Release\Secure Eye.csproj.GenerateResource.Cache
+C:\Users\Elcot\Desktop\Secure Eye\bin\Release\SecureEye.exe
+C:\Users\Elcot\Desktop\Secure Eye\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Elcot\Desktop\Secure Eye\obj\Release\CatchItV.admin.resources
+C:\Users\Elcot\Desktop\Secure Eye\obj\Release\CatchItV.DeviceSelector.resources
+C:\Users\Elcot\Desktop\Secure Eye\obj\Release\CatchItV.Form1.resources
+C:\Users\Elcot\Desktop\Secure Eye\obj\Release\CatchItV.Login.resources
+C:\Users\Elcot\Desktop\Secure Eye\obj\Release\CatchItV.MainForm.resources
+C:\Users\Elcot\Desktop\Secure Eye\obj\Release\CatchItV.MDIParent1.resources
+C:\Users\Elcot\Desktop\Secure Eye\obj\Release\SecureEye.Properties.Resources.resources
+C:\Users\Elcot\Desktop\Secure Eye\obj\Release\CatchItV.Timer.resources
+C:\Users\Elcot\Desktop\Secure Eye\obj\Release\Secure Eye.csproj.GenerateResource.Cache
+C:\Users\Elcot\Desktop\Secure Eye\obj\Release\SecureEye.exe.licenses
+C:\Users\Elcot\Desktop\Secure Eye\obj\Release\SecureEye.exe
